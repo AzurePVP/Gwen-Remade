@@ -2,15 +2,13 @@
 Configs to mimic Gwen's cheat detection.
 ---
 
-# GWEN
-
 # Major update comming soon!!
 
 This repository is where we put our latest builds!!!
 
-tested with paper 1.12.2
+Tested with paper 1.12.2
 
-download the latest [release](https://github.com/josephworks/Gwen-Remade/releases)
+Download the latest [release](https://github.com/josephworks/Gwen-Remade/releases)
 
 # Setup
 
